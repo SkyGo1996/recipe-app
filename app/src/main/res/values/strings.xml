@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecipeApp2</string>
+    <string name="main_fab_add">Create</string>
+    <string name="alert_new_recipe_name">Enter Recipe Name</string>
+    <string name="alert_new_recipe_ingredient">Enter Recipe Ingredient</string>
+    <string name="alert_new_recipe_step">Enter Recipe Step</string>
+</resources>
